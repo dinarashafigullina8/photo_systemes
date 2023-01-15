@@ -29,8 +29,7 @@ $ pip install Pillow
 ```
 $ python3 manage.py migrate
 ```
-8. 
-Start server:
+8. Start server:
 ```
 $ python3 manage.py runserver
 ```
